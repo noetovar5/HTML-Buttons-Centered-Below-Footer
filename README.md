@@ -1,6 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.HTML-Buttons-Centered-Below-Footer
-/
->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.HTML-Buttons-Centered-Below-Footer/>
 # HTML-Buttons-Centered-Below-Footer
 HTML Buttons Centered Below Footer
 HTML Buttons Centered Below Footer
